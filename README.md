@@ -159,10 +159,3 @@ git push -u origin main
 
 Reemplaza `TU_USUARIO` por tu usuario real de GitHub. Si no tienes aún la identidad de Git configurada, define primero `git config --global user.name` y `git config --global user.email`. Revisa el historial con `git log --oneline`.
 
-## Entrega
-
-El docente solicita **un único archivo PDF**, nombrado:
-
-`Nombre_Apellido_Seccion_LaboratorioVII.pdf`
-
-Debe contener el **enlace del repositorio público** y **capturas reales de la ejecución de cada ejercicio**. Puedes mostrar creación, listado, filtro, consulta, errores de validación, control de API Key y ejecución de pruebas unitarias.
